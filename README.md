@@ -37,8 +37,7 @@ This project demonstrates mastery of the **Agent Development Kit (ADK)** by impl
     ```
 
 ## 🎥 Demo
-* [View the Kaggle Notebook](YOUR_KAGGLE_NOTEBOOK_LINK_HERE)
-* [View the Demo Video](YOUR_YOUTUBE_LINK_HERE)
+* [View the Kaggle Notebook]((https://www.kaggle.com/code/krish0221/notebookf8f83e50b8))
 
 ---
 *Created for the Google AI Agents Hackathon.*
