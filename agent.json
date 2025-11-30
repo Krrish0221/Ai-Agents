@@ -1,0 +1,16 @@
+{
+  "name": "LifeSync Concierge",
+  "description": "An autonomous orchestrator for lifestyle management, travel planning, and booking. Built with Gemini 1.5 Pro.",
+  "version": "1.0.0",
+  "capabilities": [
+    "calendar_management",
+    "travel_research",
+    "restaurant_booking"
+  ],
+  "interface": {
+    "input": "text/plain",
+    "output": "application/json"
+  },
+  "framework": "Google ADK",
+  "author": "LifeSync Dev"
+}
